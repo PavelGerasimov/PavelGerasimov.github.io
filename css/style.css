@@ -68,19 +68,15 @@ p.footer {
    margin-left: 15px;
    margin-right: 15px; 
 }
-.soobsh{
-    width: 100%;
-    height: 50px;
-}
-.contact_area {
-    margin: 0 auto;
-    padding: 0;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center
-}
+
 .map {
     margin-top: 30px;
     margin-bottom: 30px;
+}
+.news{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+textarea {
+    margin-bottom: 8px;
 }
